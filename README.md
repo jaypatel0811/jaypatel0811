@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaypatel0811
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Salesforce development
+- 🌱 I’m currently working on Data Engineering Professional Certifications
 - 💞️ I’m looking for opportunities as a software developer and data analyst
 - 📫 Reach me on +918957471863
 
